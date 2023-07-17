@@ -7,7 +7,7 @@ class Database{
     private $server = "localhost";
     private $username = "root";
     private $password = "";
-    private $database = "HUReminder";
+    private $database = "db";
 
     private $mysqlConnection;
 
